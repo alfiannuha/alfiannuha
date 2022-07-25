@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfian An - Naufal Nuha, you can call me Nuha
 - 👀 I’m interested in Javascript, PHP
-- 🌱 I’m currently learning Vue JS, PHP CodeIgniter, Laravel (On Progress), Node JS (On Progress)
+- 🌱 I’m currently learning Vue JS, PHP CodeIgniter, React JS, Laravel (On Progress), Node JS (On Progress)
 - 📫 contact me by sending an email to alfian.nuha@gmail.com or chat via telegram at https://t.me/aa_nuha
 - 📞 or you can contact me at this link https://linktr.ee/aa_nuha
