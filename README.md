@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfian An-Naufal Nuha</h1>
 <h3 align="center">A passionate frontend developer from Yogyakarta, Indonesia</h3>
 
-- 🔭 I’m currently working on PT. Yureka Teknologi Cipa [Bakat Prakerja](https://bakat.yec.co.id/)
+- 🔭 I’m currently working on PT. Yureka Teknologi Cipta on project [Bakat Prakerja](https://bakat.yec.co.id/)
 
 - 🌱 I’m currently learning **VueJS, ReactJS, TypeScript, JavaScript ES6, ,**
 
